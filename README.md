@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- HERO HEADER: GOLD PREMIUM GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFA500,100:FF4500&height=300&section=header&text=KING%20LEO%2010&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Greatest%20of%20all%20the%20times&descAlignY=60&descSize=24&stroke=000000&strokeWidth=2
-
+<img src="https://capsule-render.vercel.app/api type=waving&color=0:FFD700,50:FFA500,100:FF4500&height=300&section=header&text=KING%20LEO%2010&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Greatest%20of%20all%20the%20times&descAlignY=60&descSize=24&stroke=000000&strokeWidth= 
 <!-- BOT LOGO: CENTERED WITH GLOW -->
 <a href="#">
 <img src="https://raw.githubusercontent.com/ransara-devnath-ofc/-Bot-Accent-/refs/heads/main/King%20RANUX%20PRO%20Bot%20Images/king-ranux-pro-main-logo.png" width="220" height="220" style="border-radius: 50%; border: 5px solid #FFD700; box-shadow: 0px 0px 25px #FFD700; margin-top: -50px;">
