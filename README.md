@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO HEADER: GOLD PREMIUM GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF4500&height=250&section=header&text=KING%20RANUX%20PRO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20God%20of%20WhatsApp%20Automation&descAlignY=55&descSize=22&stroke=000000&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFA500,100:FF4500&height=300&section=header&text=KING%20LEO%2010&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Greatest%20of%20all%20the%20times&descAlignY=60&descSize=24&stroke=000000&strokeWidth=2
 
 <!-- BOT LOGO: CENTERED WITH GLOW -->
 <a href="#">
