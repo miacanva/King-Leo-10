@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HERO HEADER: GOLD PREMIUM GRADIENT -->
-<img src="https://capsule-render.vercel.app/api type=waving&color=0:FFD700,50:FFA500,100:FF4500&height=300&section=header&text=KING%20LEO%2010&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Greatest%20of%20all%20the%20times&descAlignY=60&descSize=24&stroke=000000&strokeWidth= 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFA500,100:FF4500&height=300&section=header&text=KING%20LEO%2010&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Greatest%20of%20all%20the%20times&descAlignY=60&descSize=24&stroke=000000&strokeWidth=2"/>
+
 <!-- BOT LOGO: CENTERED WITH GLOW -->
 <a href="#">
 <img src="https://raw.githubusercontent.com/ransara-devnath-ofc/-Bot-Accent-/refs/heads/main/King%20RANUX%20PRO%20Bot%20Images/king-ranux-pro-main-logo.png" width="220" height="220" style="border-radius: 50%; border: 5px solid #FFD700; box-shadow: 0px 0px 25px #FFD700; margin-top: -50px;">
@@ -9,12 +10,12 @@
 
 <!-- TYPING ANIMATION -->
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=800&height=50&lines=👑+King+Of+WhatsApp+Bots;🇱🇰+Proudly+Made+In+Tabora+Tanzania;🚀+Super+Fast+Downloading+Engine;💎+Premium+Experience" alt="Typing Banner">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=800&height=50&lines=👑+King+Of+WhatsApp+Bots;🇱🇰+Proudly+Made+In+Sri+Lanka;🚀+Super+Fast+Downloading+Engine;💎+Premium+Experience" alt="Typing Banner">
 
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-2.0.0-FF4500?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/CREATOR-KING%20LEO%2010-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/CREATOR-A.M.RANSARA-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=1a1a1a">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=1a1a1a">
 </p>
 
